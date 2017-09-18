@@ -1,2 +1,3 @@
 # hello-world
-sample repo
+
+Hi starting a new journey!
